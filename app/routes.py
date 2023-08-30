@@ -8,4 +8,7 @@ bp = Blueprint('routes', __name__)
 def index():
     return render_template('index.html')
 
-# Define more route handlers as needed
+
+# @bp.route('/Deneme')
+# def index():
+#     return render_template('index.html')
