@@ -1,0 +1,31 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Local development configuration
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Database files
+*.db
+
+# Compiled frontend assets
+static/css/
+static/js/
+
+# Files and directories generated during runtime
+instance/
+
+# Miscellaneous
+*.swp
+.DS_Store
